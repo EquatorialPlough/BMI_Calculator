@@ -24,7 +24,7 @@ A simple, user-friendly BMI (Body Mass Index) calculator built with HTML, CSS, a
 
 ## How to Use
 
-1. Open `index.html` in your web browser
+1. Open `bmi_calculator.html` in your web browser
 2. Enter your weight in kilograms
 3. Enter your height in centimeters
 4. Click "Calculate BMI"
@@ -48,7 +48,7 @@ git clone https://github.com/EquatorialPlough/bmi-calculator.git
 cd bmi-calculator
 ```
 
-3. Open `index.html` in your preferred web browser.
+3. Open `bmi_calculator.html` in your preferred web browser.
 
 ## Contributing
 
